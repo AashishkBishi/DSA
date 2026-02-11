@@ -1,5 +1,3 @@
-#selection-sort Algorithm
-
 l=[6,2,9,4,0,6]     
 for ind1 in range(len(l)-1):
     leng=ind1
@@ -10,4 +8,4 @@ for ind1 in range(len(l)-1):
 print(l)
 
 
-output: [0, 2, 4, 6, 6, 9]
+#output: [0, 2, 4, 6, 6, 9]
