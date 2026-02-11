@@ -1,6 +1,3 @@
-#Binary-sort Algorithm
-
-
 k=[-17,-5,0,1,5,12,15,23]  
 target=15
 least=0
@@ -18,6 +15,4 @@ else:
     print(-1)      
 
 
-
-
-# output: 6
+#output: 6
