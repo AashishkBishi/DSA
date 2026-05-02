@@ -6,7 +6,7 @@ while least <high:
     mid = (least+high)//2
     if k[mid] > target:
         high = mid-1
-    if k[mid] < target:
+    elif k[mid] < target:
         least = mid+1
     else:
         print(mid)
